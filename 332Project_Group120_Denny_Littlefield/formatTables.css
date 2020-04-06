@@ -1,0 +1,265 @@
+@font-face {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-weight: 400;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+div.center {
+    text-align: center;
+}
+
+button.classic {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 250px;
+    height: 125px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    margin-left:auto; 
+    margin-right:auto;
+    color: #fff;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-width: 5px;
+    background-color: #ababab;
+}
+
+button.org-short {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    margin-left:auto; 
+    margin-right:auto;
+    color: #fff;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-width: 5px;
+    background-color: #ababab;
+}
+
+button.header-null-button {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 510px;
+    height: 175px;
+    font-size: 60px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    text-shadow: 4px 4px 16px #ffffff, -4px -4px 16px #ffffff;
+    color: #000000;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    background: url("dogscatsbanner.jpg") no-repeat;
+    border-width: 5px;
+    background-color: #adadad;
+}
+
+button.org-short:hover {
+    background-color: rgba(125, 125, 125, 1);
+}
+
+button.org-short:active {
+    background-color: rgba(100, 100, 100, 1);
+}
+
+button.classic:hover {
+    background-color: rgba(125, 125, 125, 1);
+}
+
+button.classic:active {
+    background-color: rgba(100, 100, 100, 1);
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-size: 64px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    color: black;
+}
+
+@font-face {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-weight: 400;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+div.center {
+    text-align: center;
+}
+
+button.classic {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 250px;
+    height: 125px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    margin-left:auto; 
+    margin-right:auto;
+    color: #fff;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-width: 5px;
+    background-color: #ababab;
+}
+
+button.org-short {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    margin-left:auto; 
+    margin-right:auto;
+    color: #fff;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-width: 5px;
+    background-color: #ababab;
+}
+
+button.header-null-button {
+    border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 510px;
+    height: 175px;
+    font-size: 60px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    text-shadow: 4px 4px 16px #ffffff, -4px -4px 16px #ffffff;
+    color: #000000;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    background: url("dogscatsbanner.jpg") no-repeat;
+    border-width: 5px;
+    background-color: #adadad;
+}
+
+button.org-short:hover {
+    background-color: rgba(125, 125, 125, 1);
+}
+
+button.org-short:active {
+    background-color: rgba(100, 100, 100, 1);
+}
+
+button.classic:hover {
+    background-color: rgba(125, 125, 125, 1);
+}
+
+button.classic:active {
+    background-color: rgba(100, 100, 100, 1);
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-size: 64px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-family: "Comic Sans MS";
+    font-style: normal;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    color: black;
+}
+
+table {
+    
+    border-collapse: collapse;
+}
+
+table td {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+
+table td:first-child {
+    border-left: none;
+}
+
+table td:last-child {
+    border-right: none;
+}
+
+th {
+  background-color: gray;
+  color: black;     
+}
+
+input[type=submit] {
+  border: 0;
+    line-height: 1;
+    padding: 0px 20px;
+    width: 100%;
+    height: 75px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    margin-left:auto; 
+    margin-right:auto;
+    color: #fff;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-width: 5px;
+    background-color: #ababab;
+}
+input[type=submit]:hover {
+  background-color: rgba(125, 125, 125, 1);
+}
