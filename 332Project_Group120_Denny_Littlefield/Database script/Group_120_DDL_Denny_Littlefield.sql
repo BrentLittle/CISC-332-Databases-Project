@@ -1,4 +1,3 @@
-drop Database spcadb;
 create database SPCADB;
 use SPCADB;
 
